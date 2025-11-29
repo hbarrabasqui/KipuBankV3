@@ -1,0 +1,13 @@
+# Compiler outputs
+cache/
+out/
+
+# Ignore all broadcast logs (they may contain sensitive info)
+broadcast/
+
+# Docs
+docs/
+
+# Dotenv (never upload private keys)
+.env
+.env.*
